@@ -7,6 +7,7 @@
     "@near-wallet-selector/account-export": "^7.9.2",
     "@near-wallet-selector/core": "^7.9.2",
     "@near-wallet-selector/modal-ui": "^7.9.2",
+    "@near-wallet-selector/my-near-wallet": "^7.9.2",
     "big.js": "^6.2.1",
     "buffer": "^6.0.3",
     "esbuild": "^0.17.15",

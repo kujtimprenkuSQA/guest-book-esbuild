@@ -142,6 +142,22 @@
     react "18.2.0"
     react-dom "18.2.0"
 
+"@near-wallet-selector/my-near-wallet@^7.9.2":
+  version "7.9.2"
+  resolved "https://registry.yarnpkg.com/@near-wallet-selector/my-near-wallet/-/my-near-wallet-7.9.2.tgz#655c1fe4ce16eec46e38fe8b7f298e3573d010b7"
+  integrity sha512-dSCm1wnj1ambhYgDjN5D5+pWqNtyGnCkn6U7DtAG161buKVO513iccIeRqIH+ogJcZKUizkRVIYyCqo2LyeIMg==
+  dependencies:
+    "@near-wallet-selector/core" "7.9.2"
+    "@near-wallet-selector/wallet-utils" "7.9.2"
+
+"@near-wallet-selector/wallet-utils@7.9.2":
+  version "7.9.2"
+  resolved "https://registry.yarnpkg.com/@near-wallet-selector/wallet-utils/-/wallet-utils-7.9.2.tgz#8665b028045ed4008ad13f0ecc901607a7e70a02"
+  integrity sha512-fS/zjPg50kZGz7janbN3v9D+F+grJE3/zkeWnTJQOGxBY/HcbRSYI4oABKko9zQ3mwdfVdt83SWIXECTZanw4A==
+  dependencies:
+    "@near-wallet-selector/core" "7.9.2"
+    bn.js "^5.2.0"
+
 "@types/big.js@^6.1.6":
   version "6.1.6"
   resolved "https://registry.yarnpkg.com/@types/big.js/-/big.js-6.1.6.tgz#3d417e758483d55345a03a087f7e0c87137ca444"
