@@ -9,6 +9,7 @@ import {useState, Fragment} from "react";
 import "./styles.css";
 import "@near-wallet-selector/modal-ui/styles.css";
 import "@near-wallet-selector/account-export/styles.css";
+import "./polyfills";
 
 // App Component
 const App = () => {
